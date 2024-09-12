@@ -1,19 +1,19 @@
-IP地址	端口	TLS	数据中心	地区	城市	网络延迟	下载速度
-54.179.184.9	443	TRUE	SIN	Asia Pacific	Singapore	99 ms	14600 kB/s
-15.165.49.161	8080	TRUE	ICN	Asia Pacific	Seoul	100 ms	13756 kB/s
-18.167.208.181	443	TRUE	HKG	Asia Pacific	Hong Kong	137 ms	13507 kB/s
-18.167.194.154	443	TRUE	HKG	Asia Pacific	Hong Kong	123 ms	11666 kB/s
-99.83.209.185	443	TRUE	IAD	North America	Ashburn	173 ms	11018 kB/s
-54.249.173.119	443	TRUE	NRT	Asia Pacific	Tokyo	83 ms	7817 kB/s
-54.200.244.93	443	TRUE	SEA	North America	Seattle	203 ms	7633 kB/s
-3.15.147.151	2083	TRUE	ORD	North America	Chicago	221 ms	5666 kB/s
-18.198.4.243	8443	TRUE	FRA	Europe	Frankfurt	198 ms	4255 kB/s
-3.144.191.4	443	TRUE	ORD	North America	Chicago	243 ms	3753 kB/s
-18.216.55.100	443	TRUE	ORD	North America	Chicago	227 ms	3525 kB/s
-3.120.144.20	8080	TRUE	FRA	Europe	Frankfurt	172 ms	3266 kB/s
-13.36.230.17	8443	TRUE	CDG	Europe	Paris	184 ms	3140 kB/s
-13.38.53.164	8443	TRUE	CDG	Europe	Paris	197 ms	3075 kB/s
-52.212.168.5	8443	TRUE	DUB	Europe	Dublin	204 ms	3052 kB/s
+IP地址	端口	TLS	数据中心	地区	城市	网络延迟	测速 MB/s
+13.125.218.78	443	TRUE	ICN	Asia Pacific	Seoul	65 ms	23.6
+152.69.219.32	443	TRUE	SIN	Asia Pacific	Singapore	99 ms	17.8
+54.151.242.175	8443	TRUE	SIN	Asia Pacific	Singapore	96 ms	12.23
+158.178.192.221	443	TRUE	CDG	Europe	Paris	227 ms	7.91
+43.156.253.94	443	TRUE	SIN	Asia Pacific	Singapore	231 ms	7.44
+158.178.196.15	2053	TRUE	CDG	Europe	Paris	237 ms	7.31
+13.37.224.156	2053	TRUE	CDG	Europe	Paris	263 ms	6.34
+13.37.224.156	8443	TRUE	CDG	Europe	Paris	265 ms	6.33
+132.145.81.117	443	TRUE	ICN	Asia Pacific	Seoul	60 ms	5.69
+158.180.88.1	34237	TRUE	ICN	Asia Pacific	Seoul	98 ms	5.13
+158.178.206.197	2053	TRUE	CDG	Europe	Paris	226 ms	4.71
+158.178.206.197	8443	TRUE	CDG	Europe	Paris	239 ms	4.26
+8.217.45.219	42291	TRUE	HKG	Asia Pacific	Hong Kong	60 ms	4.15
+89.168.43.31	2053	TRUE	CDG	Europe	Paris	214 ms	3.47
+89.168.43.31	8443	TRUE	CDG	Europe	Paris	236 ms	2.87
 13.51.48.84	2096	TRUE	ARN	Europe	Stockholm	207 ms	2964 kB/s
 18.168.254.65	8443	TRUE	LHR	Europe	London	191 ms	2956 kB/s
 54.233.182.187	443	TRUE	GRU	South America	São Paulo	355 ms	2932 kB/s
